@@ -2,6 +2,7 @@
 .semaforo{
     background-color: black;
     display: inline-block;
+    border-radius: 10px;
 }
 
 .red, .yellow, .green, .purple{
